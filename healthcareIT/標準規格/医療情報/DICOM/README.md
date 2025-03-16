@@ -87,7 +87,7 @@ DICOMは、医療機器やPACS（医用画像管理システム）との通信�
 
 #### **(4) 画像転送（遠隔医療）**
 
-- **DICOM Web（WADO, QIDO, STOW）**：Web経由でDICOMデータを送受信  
+- [**DICOM Web（WADO, QIDO, STOW）**](./DICOM_Web.md)：Web経由でDICOMデータを送受信  
   - WADO（Web Access to DICOM Objects）：WebブラウザでDICOM画像を見る  
   - QIDO（Query based on ID for DICOM Objects）：DICOMデータを検索  
   - STOW（Store Over the Web）：DICOM画像をWeb経由で保存  
